@@ -1,1 +1,4 @@
-# One-Shot-Art-One-shot-classification-for-Paintings
+# One-Shot-Art : Using One shot approach to classify paintings
+
+
+
